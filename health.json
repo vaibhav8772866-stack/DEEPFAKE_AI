@@ -1,0 +1,1 @@
+{"status":"UP","service":"Deepfake Sentinel Backend","database":"MySQL 8.0 (Native)","openCvLoaded":true,"onnxModelLoaded":true,"aiInferenceMode":"ONNX_REAL_INFERENCE","timestamp":"2026-08-13T00:18:33.6782874"}
